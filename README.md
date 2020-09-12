@@ -1,2 +1,2 @@
-# nuanyun
-iLifetruth_git@nuanyun.cloud
+# iLifetruth@nuanyun.cloud
+# cd ../../../iLifetruth
